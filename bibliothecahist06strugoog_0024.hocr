@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecahist06strugoog_0024.png"; bbox 0 0 794 1625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 100 189 730 852">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 100 189 730 852">
+     <span class='ocr_line' id='line_1_1' title="bbox 100 189 730 852; baseline 0 773"><span class='ocrx_word' id='word_1_1' title='bbox 100 189 730 852; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 140 1289 725 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 140 1289 725 1432">
+     <span class='ocr_line' id='line_1_2' title="bbox 462 1289 702 1331; baseline -0.029 -6"><span class='ocrx_word' id='word_1_2' title='bbox 462 1299 572 1331; x_wconf 47' lang='lat' dir='ltr'>&amp;mue</span> <span class='ocrx_word' id='word_1_3' title='bbox 586 1309 592 1312; x_wconf 25' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_4' title='bbox 610 1304 612 1307; x_wconf 96' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 627 1289 702 1312; x_wconf 48' lang='lat'>“51‘</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 141 1340 725 1385; baseline -0.003 -10"><span class='ocrx_word' id='word_1_6' title='bbox 141 1372 151 1384; x_wconf 72' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 478 1343 480 1346; x_wconf 69' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 518 1340 655 1383; x_wconf 30' lang='lat' dir='ltr'>*Gi-Act</span> <span class='ocrx_word' id='word_1_9' title='bbox 671 1357 680 1385; x_wconf 63' lang='lat' dir='ltr'><em>j</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 708 1341 725 1373; x_wconf 51' lang='grc' dir='ltr'>ζε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 140 1385 725 1432; baseline -0.003 -4"><span class='ocrx_word' id='word_1_11' title='bbox 140 1385 162 1432; x_wconf 66' lang='lat'>⁸1</span> <span class='ocrx_word' id='word_1_12' title='bbox 543 1397 549 1402; x_wconf 83' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 647 1411 725 1432; x_wconf 52' lang='lat' dir='ltr'>„d</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
